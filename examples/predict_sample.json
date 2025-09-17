@@ -1,0 +1,9 @@
+{
+  "vendor_id": 2,
+  "passenger_count": 1,
+  "trip_distance": 3.4,
+  "pickup_hour": 8,
+  "pickup_weekday": 2,
+  "rate_code": 1,
+  "payment_type": 1
+}
