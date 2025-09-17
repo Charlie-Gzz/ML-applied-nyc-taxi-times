@@ -7,7 +7,7 @@ xgboost
 joblib
 mlflow
 great_expectations
-evidently
+evidently==0.4.15
 pydantic
 pydantic-settings
 python-dotenv
